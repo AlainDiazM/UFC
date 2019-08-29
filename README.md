@@ -2,3 +2,4 @@
 ULTRA FAST COMUNICATION TOKEN ERC20
 
 https://etherscan.io/token/0x659627fe7D8Ef5d918b2dDDC0c34e9AC3eb0cF3B
+https://etherscan.io/address/0x659627fe7D8Ef5d918b2dDDC0c34e9AC3eb0cF3B
